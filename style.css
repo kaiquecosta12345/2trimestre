@@ -85,11 +85,6 @@ body {
     width: 50%;
     margin: 0 auto;
 }
-
-    width: 50%;
-    margin: 0 auto;
-}
-
 .parametro-senha-botoes {
     display: flex;
     justify-content: center;
@@ -156,7 +151,6 @@ label {
     display: flex;
     justify-content: space-between;
 }
-
 
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha {
